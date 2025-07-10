@@ -25,16 +25,3 @@ Export results to CSV, analyze weaknesses, and use it as your everyday password 
 ### 🔹 Run Single Password Check
 ```bash
 python checker.py
-
-Choose Option 1 and enter your password to check its strength
-
-🔹 Bulk Check from file
-```bash
-python checker.py --file password.txt
-
-This will anylyse each line in password.txt and output a styled Rich table + CSV report.
-
-🔹 Custom CSV Output Path
-
-```bash
-python checker.py --file password.txt --output result/test.csv
