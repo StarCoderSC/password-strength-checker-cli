@@ -1,0 +1,6 @@
+Password,Score,Remarks
+123456789,2/5,"Weak: Missing uppercase, Missing lowercase, Missing special char"
+StarCoder123,4/5,Moderate: Missing special char
+password,2/5,"Weak: Missing uppercase, Missing number, Missing special char"
+P@sswOrd!,4/5,Moderate: Missing number
+MyStupidLaptop!,4/5,Moderate: Missing number
